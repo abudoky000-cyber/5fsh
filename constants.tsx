@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-export const APP_NAME = "إليكترو-حراج";
+export const APP_NAME = "إليكترو بريميوم";
 
 export const ICONS = {
   Search: () => (
